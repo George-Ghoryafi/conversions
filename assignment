@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class inClassWork {
+public class methodsAssignment {
   
   //method for centimeters to inches
   static void cmToin(){
