@@ -47,14 +47,6 @@ public class methodsAssignment {
     System.out.println("What conversion would you like to make?");
     System.out.println("1.)Centimeters to Inches");
     System.out.println("2.)Inches to Centimeter");
-    System.out.println("3.)Yards to Meters");
-    System.out.println("4.)Meters to Yards");
-    System.out.println("5.)Miles to Kilometers");
-    System.out.println("6.)Kilometers to Miles");
-    System.out.println("7.)Feet to Centimeter");
-    System.out.println("8.)Centimeters to Feet");
-    
-    
     
     //define the selection int as a user input
     selection = input.nextInt();
@@ -68,18 +60,6 @@ public class methodsAssignment {
         break;
       case 2:
         inTocm();
-        break;
-      case 3:
-        break;
-      case 4:
-        break;
-      case 5:
-        break;
-      case 6:
-        break;
-      case 7:
-        break;
-      case 8:
         break;
     }
 
