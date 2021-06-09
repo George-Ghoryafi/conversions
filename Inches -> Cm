@@ -18,7 +18,7 @@ Conversion_Inches_to_cm(Inches);
 
 import java.util.Scanner;
 
-public class Main {
+public class methodsAssignment {
   
   //method for centimeters to inches
   static void cmToin(){
